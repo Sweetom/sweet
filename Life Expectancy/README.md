@@ -1,4 +1,4 @@
-Life Expectancy
+Life Expectancy Project
 ==============================
 
 Population Health Analysis
