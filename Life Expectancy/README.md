@@ -1,9 +1,8 @@
 Life Expectancy Project
 ==============================
+#### Population Health Analysis
 This model is utilized to analyze and understand the main factors that affects population health. The question we would try to answer is how an organization can promote public health by allocating the required resources such as health care system, coverage funding etc. This model will help in understanding the problem and making informed choices on the future of overall health.
 
-
-Population Health Analysis
 
 Project Organization
 ------------
