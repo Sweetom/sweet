@@ -62,7 +62,7 @@ The objective of the project is to build a model to predict life expectancy of a
 
 Therefore, to answer some of the questions, I have decided to build two prediction models and compare each on performance level to be utilized in the organization. The first model that was created is **Multiple Regression Model**. I chose this model to assess the relationship between the different variables and the target variable. The reason I chose this model is due to its easier interpretability and usefulness in detecting significant variables that helps to determine life expectancy. 
 
-The other model that is being utilized in this project is **Lasso Regression Model**. This model would be beneficial in obtaining an enhanced prediction accuracy. In addition to its ability to conduct feature selection. This choice of model was made given our objective of the project which is to assess the factors that affect life expectancy. Therefore, it would facilitate in detecting significant variables.
+The other model that is being utilized in this project is **Lasso Regression Model**. This model would be beneficial in obtaining an enhanced prediction accuracy. In addition to its ability to conduct feature selection. This choice of model was made given our objective of the project which is to assess the factors that affect life expectancy. Therefore, it would a valuable model to the organization.
 
 
 # Data Source
