@@ -64,6 +64,8 @@ Therefore, to answer some of the questions, I have decided to build two predicti
 
 The other model that is being utilized in this project is **Lasso Regression Model**. This model would be beneficial in obtaining an enhanced prediction accuracy. In addition to its ability to conduct feature selection. This choice of model was made given our objective of the project which is to assess the factors that affect life expectancy. Therefore, it would a valuable model to the organization.
 
+During the exploratory data analysis, I observed that some of the features were highly correlated. A heat map was used to detect correlation between some variables, and some of the high correlated variables were GPD and percentage expenditure as well as under five deaths and infant deaths. Hence, the model choice of Lasso was based on that. Lasso reduces multicollinearity by shrinking the coefficients of the features that demonstrates multicollinearity. Additionally, one of the important observations was that an average of 79 years was a life expectancy in the developed countries which was 12 years more than the developing countries that had an average of 67 years. As a result, this gap between the two would lead us to assume that in developed countries the necessary resources are readily available to aid in longer life span.  
+
 
 # Data Source
 https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
