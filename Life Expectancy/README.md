@@ -74,6 +74,8 @@ Executive teams would want to understand the business impact of machine learning
 
 In a machine learning model, we would require fewer error and higher prediction rate. The metrics that I have used to evaluate the performance of both models were R-squared, Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE). The R-squared value provides a number that can be explained as a percentage of how good the model is whereas all the other metrics measures the error rate. To compare both model’s performance, we have looked at how close the prediction of each model was to the true value. We can observe that some of the predictions were far from the true value, and some were very close. However, overall multiple regression model was a good fit. Hence, we can gather such observations from the performance measurements and explain them to executive leadership for a better decision making. Performance measures are important for businesses as it provides validation and is crucial to assess how the model impacts the business.
 
+In conclusion, I have decided that multiple regression model is the best model for the objective of the organization. It demonstrated a better prediction accuracy in comparison to Lasso model. Multiple regression model had a rate of prediction of 82% while Lasso had 80%. Although, when looking at the MAPE metric, the error percentage between the two models is only slightly different from each other; However, multiple regression model has a slightly better score. Overall, the average error rate is only 4%, and as I have stated above lower error and higher prediction accuracy provides confidence in the choice of a good model.
+
 
 
 # Data Source
